@@ -1,2 +1,2 @@
-# rsscool-cv
-# https://kuzmenkovaalex.github.io/rsscool-cv/cv
+# rsschool-cv
+# https://kuzmenkovaalex.github.io/rsschool-cv/cv
